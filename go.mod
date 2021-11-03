@@ -1,4 +1,4 @@
-module go-dodjo
+module github.com/doublestraus/go-dodjo
 
 go 1.17
 
